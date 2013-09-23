@@ -1,0 +1,29 @@
+.racer_table td {
+  background-color: white;
+  height: 20px;
+  width: 20px;
+  display: inline-table;
+  background-color: tomato;
+  border-color: tomato;
+}
+
+.racer_table td.active {
+  background-color: black;
+  border-color: black;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+============= flashcard css =============
+.status_bar .current_position {
+height: inherit;
+background-color: red;
+}
+
+.status_bar {
+background-color: white;
+height: 20px;
+}
+
